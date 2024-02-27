@@ -11,4 +11,3 @@ elif ope=='/':
     print("the division of a and b is",a/b)
 else:
     print("Invalid")
-
